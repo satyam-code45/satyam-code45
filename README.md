@@ -1,8 +1,12 @@
-## Hi there 👋
+<!-- Classy Top SVG Wave Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/satyam-code45/satyam-code45/main/assets/wave-dark.svg" width="100%" />
+</p>
 
 <!-- Typing Animation Header -->
+<h2 align="center">Hi there 👋</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=450&lines=Hi+there+%F0%9F%91%8B+I'm+Satyam!;Full-Stack+Dev+%7C+Open+Source+Contributor;Lover+of+Clean+UIs+and+Coffee+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=450&lines=I'm+Satyam!;Full-Stack+Dev+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,23 +23,47 @@
 
 🧠 I’m into solving real-world UI/UX bugs, scaling end-to-end products, and shipping clean developer-first experiences.
 
+📫 **Reach me at**: satyam45.dev@gmail.com
+
 ---
 
-## 🛠️ Tech I'm Working With
+## 🛠️ Tech Stack
 
-<!-- Animated Tech Stack Marquee -->
+### 🧩 Front-End
+`React.js` • `Next.js` • `TypeScript` • `JavaScript` • `Tailwind CSS` • `Responsive Design` • `UI/UX`
+
+### 🧪 Back-End
+`Node.js` • `Express.js` • `WebSockets (Socket.io)` • `JWT Auth`
+
+### 💾 Databases & ORM
+`PostgreSQL` • `MongoDB` • `Redis` • `Prisma`
+
+### 🛠️ Tools & DevOps
+`Vercel` • `Git` • `GitHub` • `Docker` • `CI/CD pipeline`
+
+### 💻 Programming Languages
+`JavaScript` • `TypeScript` • `SQL` • `C++` • `C`
+
+<!-- Animated Tech Stack Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS+%7C+Node.js+%7C+PostgreSQL+%7C+Git+%7C+Prisma+%7C+tRPC+%7C+OpenAI+APIs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=700&lines=React.js+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%7C+Tailwind+CSS+%7C+PostgreSQL+%7C+Prisma+%7C+Redis+%7C+Docker+%7C+GitHub+Actions+%7C+C%2B%2B+%7C+C" />
 </p>
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" alt="Express" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40" alt="Redis" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" alt="Docker" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" alt="C" />
 </p>
 
 ---
@@ -55,7 +83,7 @@ Tech: `Next.js`, `Tailwind`, `Clerk`, `Prisma`, `PostgreSQL`, `Vercel`
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam-code45&show_icons=true&theme=radical" alt="Satyam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satyam-code45&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-code45&theme=radical" alt="GitHub Streak" />
   <br/>
