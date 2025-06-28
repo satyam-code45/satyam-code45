@@ -1,56 +1,53 @@
-<!-- 🏁 Top Banner (GIF/Custom Banner) -->
+<!-- 🏁 Custom Banner (You can replace this with your own banner from Canva, LottieFiles, or Haikei) -->
 <p align="center">
   <a href="https://github.com/satyam-code45">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Satyam;Full-stack+developer+%7C+Open+source+enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Satyam</h1>
-<h3 align="center">Full-stack web developer | AI tools | DSA lover</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 I'm a Computer Science undergrad at **IIIT Bhagalpur (CSE'27)**
-- 🧠 Learning full-stack, DevOps, and GenAI — actively contributing to open source
-- 🧰 Contributed to [FlowiseAI](https://github.com/FlowiseAI/Flowise/pull/4729), a YC-backed low-code LLM builder
-- 🧑‍💻 Love building developer tools, UI/UX fixes, and end-to-end scalable apps
-- 📫 Reach me at: **satyam45.dev@gmail.com**
+- 🎓 Computer Science undergrad at **IIIT Bhagalpur (CSE'27)**
+- 💡 Exploring **full-stack dev**, **DevOps**, and **GenAI**
+- ✨ Made my first open-source contribution to [FlowiseAI](https://github.com/FlowiseAI/Flowise/pull/4729)
+- 🔧 I build scalable, clean dev tools and UI-heavy products
+- 📧 Reach me at: **satyam45.dev@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=html,css" height="40" alt="HTML & CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
 
-  <!-- Backend & DB -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="Redis" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma" />
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" width="40" height="40" alt="Prisma" />
 
-  <!-- Tools & DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
+  <!-- DevOps & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
 </p>
 
 ---
@@ -62,9 +59,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-code45&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=satyam-code45&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
 ---
 
-## 🤝 Let's Connect
+## 🤗 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/satyam-code45/" target="_blank">
@@ -80,10 +81,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/satyam-code45/count.svg?" />
-</p>
-
-<p align="center">
-  <img height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-</p>
+<!-- Snake Contribution Graph -->
+<div align="center">
+  <img src="https://github.com/satyam-code45/satyam-code45/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
