@@ -5,7 +5,6 @@
   </a>
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
@@ -16,7 +15,7 @@
 - 🎯 Full-stack developer passionate about open source
 - 🔭 Currently building a full-featured Next.js project
 - 🌱 Exploring DevOps and GenAI
-- ✨ Contributed to FlowiseAI (YC-backed low-code LLM builder)
+- ✨ Contributed to [FlowiseAI](https://github.com/FlowiseAI/Flowise/pull/4729) (YC-backed low-code LLM builder)
 - 📧 Reach me at: **satyam45.dev@gmail.com**
 
 ---
