@@ -13,10 +13,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science undergrad at **IIIT Bhagalpur (CSE'27)**
-- 💡 Exploring **full-stack dev**, **DevOps**, and **GenAI**
-- ✨ Made my first open-source contribution to [FlowiseAI](https://github.com/FlowiseAI/Flowise/pull/4729)
-- 🔧 I build scalable, clean dev tools
+- 🎯 Full-stack developer passionate about open source
+- 🔭 Currently building a full-featured Next.js project
+- 🌱 Exploring DevOps and GenAI
+- ✨ Contributed to FlowiseAI (YC-backed low-code LLM builder)
 - 📧 Reach me at: **satyam45.dev@gmail.com**
 
 ---
