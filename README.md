@@ -6,17 +6,17 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Satyam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full-stack web developer | AI tools | DSA lover</h3>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 I'm a Computer Science undergrad at **IIIT Bhagalpur (CSE'27)**
-- 📈 Actively contributing to open source, including [FlowiseAI PR #4729](https://github.com/FlowiseAI/Flowise/pull/4729)
-- 🤖 I love building scalable frontend experiences, exploring GenAI, DevTools, and product design
-- 📢 Open to internships and open source collaboration
-- 📧 Email me: **satyam45.dev@gmail.com**
+- 🧠 Learning full-stack, DevOps, and GenAI — actively contributing to open source
+- 🧰 Contributed to [FlowiseAI](https://github.com/FlowiseAI/Flowise/pull/4729), a YC-backed low-code LLM builder
+- 🧑‍💻 Love building developer tools, UI/UX fixes, and end-to-end scalable apps
+- 📫 Reach me at: **satyam45.dev@gmail.com**
 
 ---
 
@@ -24,21 +24,33 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css" height="40" alt="HTML & CSS" />
+
+  <!-- Backend & DB -->
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="Redis" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+
+  <!-- Tools & DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
 </p>
 
 ---
@@ -46,23 +58,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam-code45&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-code45&layout=compact&theme=radical" height="150" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satyam-code45&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-code45&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
 
 ---
 
-## 👍 Let's Connect
+## 🤝 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/satyam-code45/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:satyam45.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email" />
   </a>
   <a href="https://satyam-portfolio-self.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
 </p>
 
