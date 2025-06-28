@@ -83,5 +83,6 @@
 
 <!-- Snake Contribution Graph -->
 <div align="center">
-  <img src="https://github.com/satyam-code45/satyam-code45/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://github.com/satyam-code45/satyam-code45/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
 </div>
